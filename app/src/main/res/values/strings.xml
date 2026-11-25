@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pijar Sekolah</string>
+    <string name="offline_title">Koneksi Internet Terputus</string>
+    <string name="offline_subtitle">Pastikan Wi-Fi atau paket data Anda aktif untuk membuka Pijar Sekolah.</string>
+    <string name="retry_label">Coba Lagi</string>
+</resources>

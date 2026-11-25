@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tema NoActionBar menghilangkan header bar website/browser sepenuhnya -->
+    <style name="Theme.PijarSekolah" parent="Theme.Material3.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/status_bar_blue</item>
+        <item name="android:navigationBarColor">@color/nav_bar_dark</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.PijarSekolah.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/splash_bg</item>
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
+        <item name="postSplashScreenTheme">@style/Theme.PijarSekolah</item>
+    </style>
+</resources>

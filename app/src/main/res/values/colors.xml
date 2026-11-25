@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pijar_blue">#0E87E6</color>
+    <color name="status_bar_blue">#0E87E6</color>
+    <color name="splash_bg">#2778E4</color>
+    <color name="ic_launcher_background">#2778E4</color>
+    <color name="nav_bar_dark">#111827</color>
+    <color name="white">#FFFFFF</color>
+    <color name="slate_900">#0F172A</color>
+    <color name="slate_600">#475569</color>
+</resources>
